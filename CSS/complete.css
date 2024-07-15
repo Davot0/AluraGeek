@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#000000, #2c2c2c);
+    min-height: 100vh;
+}
+
+/*header*/
+.title_container {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.title {
+    font-size: 50px;
+    margin: 10px;
+    padding-left: 20px;
+}
+
+.title a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/*Main*/
+.send_submit{
+    width: 30%;
+    margin: auto;
+    padding: 5%;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.send_tilte{
+    font-size: 50px;
+}
+
+.send_submit img{
+    width: 40%;
+}

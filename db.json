@@ -1,0 +1,28 @@
+{
+  "Productos": [
+    {
+      "id": "1",
+      "nombre": "sfasfa",
+      "precio": "5000",
+      "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "2",
+      "nombre": "xd",
+      "precio": "60000",
+      "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "cdfc",
+      "nombre": "Gaticos calenticos",
+      "precio": "200000",
+      "imagen": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    },
+    {
+      "id": "9f94",
+      "nombre": "Gatito",
+      "precio": "200000",
+      "imagen": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+    }
+  ]
+}
